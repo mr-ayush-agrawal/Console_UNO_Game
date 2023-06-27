@@ -1,0 +1,8 @@
+The whole workflow is in the OneNote I would be refering to that
+For the whole program desing and flow
+
+I am thinking to Integrate Some random Features like these when the code is functional
+    - Stacking the +2/+4 Card
+    - Tab Features To complete the Card
+    - Colors of the Card
+    - Highlighting the Valid Card moves
